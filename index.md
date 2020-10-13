@@ -27,3 +27,7 @@ Bluetooth adalah sebuah teknologi komunikasi wireless atau tanpa kabel yang bero
 Sistem bluetooth terdiri atas: sebuah radio transceiver, baseband link Management dan Control, Baseband (processor core, SRAM, UART, PCM USB Interface), flash dan voice codec.
 
 # 2.Encoding
+![Image](encoding.jpg)
+Encoding adalah proses mengubah pikiran menjadi komunikasi. Encoder menggunakan ‘media’ untuk mengirim pesan, panggilan telepon, email, pesan teks, pertemuan tatap muka, atau alat komunikasi lainnya. Tingkat pemikiran sadar yang masuk kepesan penyandian dapat bervariasi.
+Tujuan Encoding adalah mengubah data yang dapat digunakan oleh berbagai macam sistim secara tepat dan aman. Seperti mengirimkan data yang berbentuk biner lewat email (seperti attachment), menyimpan data biner ke dalam database atau menampilkan karakter-karakter special pada halaman web atau media lainnya. Biasanya data itu diterjemahkan kedalam karakter sesuai dengan tipe yang digunakan.
+
