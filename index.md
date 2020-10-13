@@ -19,5 +19,7 @@ ada 3 jenis infrared, ini dibagi berdasarkan panjang gelombangnya, diataranya:
 3.Inframerah jarak jauh dengan panjang gelombang 10 – 100 µm
 
 # Bluetooth
+![Image](bluetooth.jpg)
+
 Bluetooth adalah sebuah teknologi komunikasi wireless atau tanpa kabel yang beroperasi dalam pita frekuensi 2,4 GHz (antara 2.402 GHz s/d 2.480 GHz) dengan menggunakan sebuah frequency hopping tranceiver yang mapu menyediakan layanan komunikasi data dan juga suara secara real-time antara host-host bluetooth dengan jarak jangkauan layanan yang terbatas.
 Sistem bluetooth terdiri atas: sebuah radio transceiver, baseband link Management dan Control, Baseband (processor core, SRAM, UART, PCM USB Interface), flash dan voice codec.
